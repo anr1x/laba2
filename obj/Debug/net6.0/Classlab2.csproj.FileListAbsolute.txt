@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Classlab2\Classlab2\bin\Debug\net6.0\Classlab2.exe
+C:\Users\PC\source\repos\Classlab2\Classlab2\bin\Debug\net6.0\Classlab2.deps.json
+C:\Users\PC\source\repos\Classlab2\Classlab2\bin\Debug\net6.0\Classlab2.runtimeconfig.json
+C:\Users\PC\source\repos\Classlab2\Classlab2\bin\Debug\net6.0\Classlab2.dll
+C:\Users\PC\source\repos\Classlab2\Classlab2\bin\Debug\net6.0\Classlab2.pdb
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.dll
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\refint\Classlab2.dll
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.pdb
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\Classlab2.genruntimeconfig.cache
+C:\Users\PC\source\repos\Classlab2\Classlab2\obj\Debug\net6.0\ref\Classlab2.dll
